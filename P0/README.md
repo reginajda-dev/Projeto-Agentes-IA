@@ -14,7 +14,7 @@ P0 - Organização inicial do repositório e versionamento com Git e GitHub.
  -Visual Studio Code (VS Code)
 
  ## Objetivo
- Organizar o ambiente dedesenvolvimento , documnetar o projeto e aprender a utilizar o controle de versões com Git e GitHub.
+ Organizar o ambiente desenvolvimento , documentar o projeto e aprender a utilizar o controle de versões com Git e GitHub.
 
  ## Status
  Em desenvolvimento.
